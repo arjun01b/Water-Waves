@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 150}
   m_MaxSize: {x: 24288, y: 24288}
   vertical: 0
-  controlID: 90
+  controlID: 137
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -908,7 +908,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\WaterWaves
+  m_LastProjectPath: E:\WaterWavesGitHub\Water-Waves\WaterWaves
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
